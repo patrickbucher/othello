@@ -1,0 +1,10 @@
+- use for M450
+- static test: review of code
+    - in order to extend it
+- dynamic test: test code
+    - existing logic
+    - tdd for AI opponent
+- TODO:
+    - port to TypeScript for better understanding
+    - refactor so that the AI move is computed over an interface
+    - students will provide their own AIs
